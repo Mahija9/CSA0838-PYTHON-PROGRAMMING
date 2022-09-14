@@ -34,3 +34,11 @@
 33. program to find all possible permutations.
 34. program to group the anagrams together and return the answer in any order.
 35. program to return the minimum number of operations required to convert word1 to word2.
+36. program to return a string array.
+37. program to find the number of student users in the college.
+38. program to find how many numbers are smaller than the current number.
+39. program to find the valid palindrome.
+40. program to return the minimum number of jumps to reach the end of the array.
+41. program to write a function delchar(s,c) that takes as input strings s and c.
+42. program to convert roman number to integer.
+43. program to scramble a string.
